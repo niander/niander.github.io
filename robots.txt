@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niander.github.io/sitemap.xml
+Sitemap: niander.github.io/sitemap.xml
