@@ -195,10 +195,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -254,6 +254,7 @@ exclude:
   - _pages/blog.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _pages/publications.md
   - _pages/news.md
   - _pages/projects.md
   - _pages/teaching.md
