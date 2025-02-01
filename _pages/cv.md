@@ -1,7 +1,7 @@
 ---
 layout: default # change to "cv" if want to generate cv 
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
 redirect_to: /assets/pdf/complete_cv.pdf

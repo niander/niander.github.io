@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 UNDER CONSTRUCTION
 
-Please use my linked socials.
+Please use my linked socials and my CV linked above in the navigation bar.
