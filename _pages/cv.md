@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default # change to "cv" if want to generate cv 
 permalink: /cv/
 title: cv
 nav: true
