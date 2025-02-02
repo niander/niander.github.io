@@ -11,5 +11,4 @@ redirect: /assets/pdf/complete_cv.pdf
 #   sidebar: left
 ---
 
-Redirecting...
-[Click here if you are not redirected.](/assets/pdf/complete_cv.pdf)
+Opening PDF... [Click here if you are not redirected.]({{ page.redirect }})
