@@ -145,7 +145,7 @@ If you need to manually re-deploy your website to GitHub pages, go to Actions, c
      | `JEKYLL_ENV`   | `production`                                                                           |
      | `RUBY_VERSION` | set to the Ruby version found in `.github/workflows/deploy.yml` (for example, `3.3.5`) |
 
-5. Netlify: Click **Deploy** and wait for the site to be published. If you want to use your own domain name, follow the steps in [this documentation](https://docs.netlify.com/domains-https/).
+5. Netlify: Click **Deploy** and wait for the site to be published. If you want to use your own domain name, follow the steps in [this documentation](https://docs.netlify.com/manage/domains/manage-domains/manage-domains-for-a-site-app/).
 
 ### Deployment to another hosting server (non GitHub Pages)
 
